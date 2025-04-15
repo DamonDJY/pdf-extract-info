@@ -1,1 +1,14 @@
 timestamp,pdf_filename,word_filename,api_info,token_usage
+2025-04-14T16:41:16.130028,3. VI_2 (Tracked Changes).pdf,output_3. VI_2 (Tracked Changes).docx,Azure OpenAI API: chat-gpt-4o,17335
+2025-04-14T16:44:19.605748,3. VI_2 (Tracked Changes).pdf,output_3. VI_2 (Tracked Changes).docx,Azure OpenAI API: chat-gpt-4o,17330
+2025-04-14T16:46:20.355731,3. VI_2 (Tracked Changes).pdf,output_3. VI_2 (Tracked Changes).docx,Azure OpenAI API: chat-gpt-4o,17229
+2025-04-14T16:58:03.080228,3. VI_2 (Tracked Changes).pdf,output_3. VI_2 (Tracked Changes).docx,Azure OpenAI API: chat-gpt-4o,17268
+2025-04-14T16:59:26.787648,3. VI_2 (Tracked Changes).pdf,output_3. VI_2 (Tracked Changes).docx,Azure OpenAI API: chat-gpt-4o,17200
+2025-04-14T17:00:52.133349,3. VI_2 (Tracked Changes).pdf,output_3. VI_2 (Tracked Changes).docx,Azure OpenAI API: chat-gpt-4o,17330
+2025-04-14T17:10:22.535608,3. VI_2 (Tracked Changes).pdf,output_3. VI_2 (Tracked Changes).docx,Azure OpenAI API: chat-gpt-4o,17811
+2025-04-14T17:14:23.824728,3. VI_2 (Tracked Changes).pdf,output_3. VI_2 (Tracked Changes).docx,Azure OpenAI API: chat-gpt-4o,17185
+2025-04-14T17:25:03.405279,3. VI_2 (Tracked Changes).pdf,output_3. VI_2 (Tracked Changes).docx,Azure OpenAI API: chat-gpt-4o,17513
+2025-04-15T09:14:48.354207,3. VI_2 (Tracked Changes).pdf,output_3. VI_2 (Tracked Changes).docx,Azure OpenAI API: chat-gpt-4o,63820
+2025-04-15T09:54:42.835748,HKMA_SPM_SB-1_(English)_mup_240510.pdf,output_HKMA_SPM_SB-1_(English)_mup_240510.docx,Azure OpenAI API: chat-gpt-4o,97172
+2025-04-15T10:56:08.004967,3. Code_Eng_December_2021(compared_with_N_CoBP).pdf,output_3. Code_Eng_December_2021(compared_with_N_CoBP)_20250415_105607.docx,Azure OpenAI API: chat-gpt-4o,98224
+2025-04-15T11:05:50.318393,3. VI_2 (Tracked Changes).pdf,output_3. VI_2 (Tracked Changes)_20250415_110550.docx,Azure OpenAI API: chat-gpt-4o,63744
